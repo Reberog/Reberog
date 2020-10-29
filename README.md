@@ -1,7 +1,7 @@
 ###               Hi there 👋 I am Arpan Anand
+<br>
 
-
-                          I am a Passionate Programmer from INDIA
+###     I am a Passionate Programmer from INDIA
 
 - 🔭 I’m currently working on Sudoku Solver
 - 🌱 I’m currently learning Machine Learning
