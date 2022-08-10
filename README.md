@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reberog&label=Profile%20views&color=0e75b6&style=flat" alt="reberog" /> </p>
 
-- 🔭 I’m currently working on **Sudoku Solver.**
+- 🔭 I’m currently working on **Android Mouse.**
 
 - 🌱 I’m currently learning **Machine Learning.**
 
