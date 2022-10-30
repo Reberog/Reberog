@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Mouse.**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Spring Framework.**
 
 - 👯 I’m looking to collaborate on **anything related to Machine Learning.**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything you want to know about.**
 
-- 📫 How to reach me **arpananand1903@gmail.com**
+- 📫 How to reach me **arpan.anand.official@gmail.com**
 
 - ⚡ Fun fact **No amount of passion can overcome a lack of technical expertise.**
 
